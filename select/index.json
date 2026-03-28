@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ghost Pong",
+  "base_artist": "Emancipator",
+  "createdAt": "2026-03-28T14:41:32.653726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Peng Pong",
+      "artist": "Erlend Øye",
+      "has_synced": true,
+      "path": "select/01_Peng_Pong_Erlend_Øye.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ping Pong",
+      "artist": "Antipop Consortium",
+      "has_synced": false,
+      "path": "select/02_Ping_Pong_Antipop_Consortium.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ping Pong",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/03_Ping_Pong_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ping Pong (Original Version)",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/04_Ping_Pong_(Original_Version)_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ping Pong (Unreleased LP Version)",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/05_Ping_Pong_(Unreleased_LP_Version)_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ping Pong Girl",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Vincent Rodriguez III",
+      "has_synced": false,
+      "path": "select/06_Ping_Pong_Girl_Crazy_Ex-Girlfriend_Cast_feat._Vincent_Rodriguez_III.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Ever Happened to Pong?",
+      "artist": "Frank Black",
+      "has_synced": true,
+      "path": "select/07_What_Ever_Happened_to_Pong_Frank_Black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whatever Happened to Pong?",
+      "artist": "Frank Black",
+      "has_synced": true,
+      "path": "select/08_Whatever_Happened_to_Pong_Frank_Black.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pat Pong",
+      "artist": "Pest",
+      "has_synced": false,
+      "path": "select/09_Pat_Pong_Pest.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ping Pong Affair",
+      "artist": "The Slits",
+      "has_synced": false,
+      "path": "select/10_Ping_Pong_Affair_The_Slits.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pong Ping Affair",
+      "artist": "The Slits",
+      "has_synced": false,
+      "path": "select/11_Pong_Ping_Affair_The_Slits.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "pe nyom pong",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/12_pe_nyom_pong_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Join Us For Pong",
+      "artist": "The Vandals",
+      "has_synced": true,
+      "path": "select/13_Join_Us_For_Pong_The_Vandals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pat Pong Ladies (Demo Mix) - Bonus Track",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/14_Pat_Pong_Ladies_(Demo_Mix)_-_Bonus_Track_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pat Pong Ladies (Demo Mix) (Bonus Track)",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/15_Pat_Pong_Ladies_(Demo_Mix)_(Bonus_Track)_The_Darkness.lrc"
+    }
+  ]
+}
